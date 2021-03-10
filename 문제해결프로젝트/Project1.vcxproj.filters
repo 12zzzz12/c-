@@ -1,0 +1,193 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="소스 파일">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="헤더 파일">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="리소스 파일">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="리소스 파일\homework1">
+      <UniqueIdentifier>{dd31a4ea-12de-45d1-9047-bf0760c26815}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="리소스 파일\project1">
+      <UniqueIdentifier>{aebb1c66-618f-4c2b-b64b-95ab6d56c213}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="리소스 파일\homework2">
+      <UniqueIdentifier>{6d64249b-4cca-4833-b4a8-784894847e62}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="리소스 파일\homework3">
+      <UniqueIdentifier>{0018f246-fb2e-4e4d-b35a-82d825c37e92}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\운영체제">
+      <UniqueIdentifier>{16af8f5f-93b0-43d4-a289-a93c24d353b4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="리소스 파일\project2">
+      <UniqueIdentifier>{c224d5fa-1aee-4b53-902f-2eca95c52cb1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="리소스 파일\homework4">
+      <UniqueIdentifier>{9e5cb3a2-5acd-4ed8-b350-dca310691bb1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="리소스 파일\homework5">
+      <UniqueIdentifier>{852d692a-545f-4ce4-877b-cfede1ee3acf}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="리소스 파일\project3">
+      <UniqueIdentifier>{1d13225c-4fce-4d64-af90-b2cbd3e04c79}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="리소스 파일\project4">
+      <UniqueIdentifier>{7b3efae5-d3d4-4f19-b2bf-86fea9983e94}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="리소스 파일\homework11">
+      <UniqueIdentifier>{5394983b-f39e-4ff0-870f-150502e9d06d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="리소스 파일\homework10">
+      <UniqueIdentifier>{774dd911-7c90-4db0-84e2-f1c5b98f403a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="리소스 파일\homework9">
+      <UniqueIdentifier>{f27cc46e-9bec-4e7f-bc9f-3b1d1e864284}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="리소스 파일\homework12">
+      <UniqueIdentifier>{f28da17f-226f-4613-bf3c-d5bfd8b4896e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="리소스 파일\project5">
+      <UniqueIdentifier>{a83c8248-9ad4-4103-9cf2-3ee18f58b66b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="리소스 파일\homework13">
+      <UniqueIdentifier>{6b92a454-3e78-4f51-a1db-1a4f5c16de1a}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="도토리키재기.cpp">
+      <Filter>리소스 파일\homework1</Filter>
+    </ClCompile>
+    <ClCompile Include="다양성.cpp">
+      <Filter>리소스 파일\homework1</Filter>
+    </ClCompile>
+    <ClCompile Include="문자열의비교.cpp">
+      <Filter>리소스 파일\homework1</Filter>
+    </ClCompile>
+    <ClCompile Include="오름차순인가.cpp">
+      <Filter>리소스 파일\homework1</Filter>
+    </ClCompile>
+    <ClCompile Include="김재근.cpp">
+      <Filter>리소스 파일\project1</Filter>
+    </ClCompile>
+    <ClCompile Include="데스티니.cpp">
+      <Filter>리소스 파일\homework2</Filter>
+    </ClCompile>
+    <ClCompile Include="버블정렬.cpp">
+      <Filter>리소스 파일\homework2</Filter>
+    </ClCompile>
+    <ClCompile Include="소수의판별.cpp">
+      <Filter>리소스 파일\homework2</Filter>
+    </ClCompile>
+    <ClCompile Include="정주행.cpp">
+      <Filter>리소스 파일\homework2</Filter>
+    </ClCompile>
+    <ClCompile Include="픽셀수세기.cpp">
+      <Filter>리소스 파일\homework2</Filter>
+    </ClCompile>
+    <ClCompile Include="응모.cpp">
+      <Filter>리소스 파일\homework3</Filter>
+    </ClCompile>
+    <ClCompile Include="전화번호.cpp">
+      <Filter>리소스 파일\homework3</Filter>
+    </ClCompile>
+    <ClCompile Include="페인트.cpp">
+      <Filter>리소스 파일\homework3</Filter>
+    </ClCompile>
+    <ClCompile Include="피보나치.cpp">
+      <Filter>리소스 파일\homework3</Filter>
+    </ClCompile>
+    <ClCompile Include="단일스레드.cpp">
+      <Filter>소스 파일\운영체제</Filter>
+    </ClCompile>
+    <ClCompile Include="멀티스레드.cpp">
+      <Filter>소스 파일\운영체제</Filter>
+    </ClCompile>
+    <ClCompile Include="정수바꾸기.cpp">
+      <Filter>리소스 파일\project2</Filter>
+    </ClCompile>
+    <ClCompile Include="톱니바퀴.cpp">
+      <Filter>리소스 파일\project2</Filter>
+    </ClCompile>
+    <ClCompile Include="스도쿠보드.cpp">
+      <Filter>리소스 파일\homework4</Filter>
+    </ClCompile>
+    <ClCompile Include="probing.cpp">
+      <Filter>리소스 파일\homework4</Filter>
+    </ClCompile>
+    <ClCompile Include="소인수분해.cpp">
+      <Filter>리소스 파일\homework4</Filter>
+    </ClCompile>
+    <ClCompile Include="소수세기.cpp">
+      <Filter>리소스 파일\homework4</Filter>
+    </ClCompile>
+    <ClCompile Include="세 카드.cpp">
+      <Filter>리소스 파일\homework5</Filter>
+    </ClCompile>
+    <ClCompile Include="골드바흐의 추측.cpp">
+      <Filter>리소스 파일\project3</Filter>
+    </ClCompile>
+    <ClCompile Include="이미지 매칭.cPP">
+      <Filter>리소스 파일\project3</Filter>
+    </ClCompile>
+    <ClCompile Include="두 직사각형.c">
+      <Filter>리소스 파일\homework5</Filter>
+    </ClCompile>
+    <ClCompile Include="괄호 문자열.cpp">
+      <Filter>리소스 파일\homework9</Filter>
+    </ClCompile>
+    <ClCompile Include="탑.cpp">
+      <Filter>리소스 파일\homework9</Filter>
+    </ClCompile>
+    <ClCompile Include="히스토그램.cpp">
+      <Filter>리소스 파일\homework9</Filter>
+    </ClCompile>
+    <ClCompile Include="조세퍼스의 문제.cpp">
+      <Filter>리소스 파일\homework10</Filter>
+    </ClCompile>
+    <ClCompile Include="불안정 지역.cpp">
+      <Filter>리소스 파일\homework10</Filter>
+    </ClCompile>
+    <ClCompile Include="이미지 압축.cpp">
+      <Filter>리소스 파일\project4</Filter>
+    </ClCompile>
+    <ClCompile Include="중복제거하기.cpp">
+      <Filter>리소스 파일\homework11</Filter>
+    </ClCompile>
+    <ClCompile Include="정사각형.cpp">
+      <Filter>리소스 파일\homework11</Filter>
+    </ClCompile>
+    <ClCompile Include="소스.cpp">
+      <Filter>리소스 파일\project4</Filter>
+    </ClCompile>
+    <ClCompile Include="빈도수세기.cpp">
+      <Filter>리소스 파일\homework12</Filter>
+    </ClCompile>
+    <ClCompile Include="시장추천하기.cpp">
+      <Filter>리소스 파일\homework12</Filter>
+    </ClCompile>
+    <ClCompile Include="15683족보.cpp">
+      <Filter>리소스 파일\project5</Filter>
+    </ClCompile>
+    <ClCompile Include="CCTV.cpp">
+      <Filter>리소스 파일\project5</Filter>
+    </ClCompile>
+    <ClCompile Include="깊이우선탐색.cpp">
+      <Filter>리소스 파일\homework13</Filter>
+    </ClCompile>
+    <ClCompile Include="너비우선탐색.cpp">
+      <Filter>리소스 파일\homework13</Filter>
+    </ClCompile>
+    <ClCompile Include="비밀번호패턴2.cpp">
+      <Filter>리소스 파일\project5</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
